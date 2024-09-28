@@ -654,7 +654,6 @@ gen_headers_out_arm = [
     "media/msm_fd.h",
     "media/msm_jpeg.h",
     "media/msm_jpeg_dma.h",
-    "media/msm_media_info.h",
     "media/msm_sde_rotator.h",
     "media/msm_vidc.h",
     "media/msm_vidc_private.h",
